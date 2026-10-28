@@ -5,5 +5,7 @@
 
 ##Day 1
 -跑通第一个Python 脚本
+
 -学会看NameError/TypeError
+
 -产出：day1.py
